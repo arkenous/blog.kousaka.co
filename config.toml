@@ -1,0 +1,47 @@
+baseURL = 'https://blog.kousaka.co/'
+languageCode = 'ja-jp'
+title = 'ken.log'
+theme = 'stack'
+defaultContentLanguage = 'ja'
+enableRobotsTXT = 'true'
+hasCJKLanguage = 'true'
+timeZone = 'Asia/Tokyo'
+
+# URL Management
+[permalinks]
+post = '/:slug/'
+page = '/p/:slug/'
+
+# Markup
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.tableOfContents]
+endLevel = 4
+ordered = true
+startLevel = 2
+
+# settings for stack theme
+[params.sidebar]
+emoji = '🙄'
+subtitle = '覚えておきたいことを、残しておくところ。'
+[params.sidebar.avatar]
+src = 'img/avatar.webp'
+
+[params.footer]
+since = '2012'
+
+# 現状トップ画面右の検索ウィジェットは不要なのでコメントアウト
+#[[params.widgets.homepage]]
+#type = 'search'
+
+[[params.widgets.page]]
+type = 'toc'
+
+[[menu.social]]
+identifier = "mastodon-japan-net"
+name = "Mastodon"
+url = "https://mastodon-japan.net/@arkenous"
+
+[menu.social.params]
+icon = "mastodon"
