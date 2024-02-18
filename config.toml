@@ -39,9 +39,9 @@ since = '2012'
 type = 'toc'
 
 [[menu.social]]
-identifier = "mstdn-kousaka-co"
-name = "Mastodon"
-url = "https://mstdn.kousaka.co/@k"
+identifier = "misskey-kousaka-co"
+name = "Misskey"
+url = "https://misskey.kousaka.co/@k"
 
 [menu.social.params]
-icon = "mastodon"
+icon = "fediverse"
