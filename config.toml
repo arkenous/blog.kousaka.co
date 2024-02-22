@@ -39,9 +39,9 @@ since = '2012'
 type = 'toc'
 
 [[menu.social]]
-identifier = "misskey-kousaka-co"
+identifier = "msky-engawa.social"
 name = "Misskey"
-url = "https://misskey.kousaka.co/@k"
+url = "https://msky.engawa.social/@k"
 
 [menu.social.params]
 icon = "fediverse"
