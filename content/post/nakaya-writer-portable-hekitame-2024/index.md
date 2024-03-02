@@ -11,7 +11,6 @@ keywords:
   - 文房具
   - 文房具沼
 image: "DSC01983-web.jpg"
-draft: true
 ---
 
 去年の夏頃に思い切ってオーダーした中屋万年筆さんのペンが、ついに手元に届いた。選んだのは、[ライターポータブルの碧溜](https://nakaya.org/review.aspx?id=187&type=body)で、字幅は中軟字、クリップの代わりに[九尾の狐の廻り止め](https://nakaya.org/review.aspx?id=44&type=clip)をつけてもらった。注文はWebから。
